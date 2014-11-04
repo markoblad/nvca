@@ -1,6 +1,6 @@
 # TERM SHEET FOR v_field_security_name_upcase FINANCING OF v_field_company_name_upcase
 
-# v_field_agmt_date"
+## v_field_agmt_date
 
 This Term Sheet summarizes the principal terms of the v_field_security_name Financing of v_field_company_name, a v_field_org_state v_field_entity_type (the “Company”).  In consideration of the time and expense devoted and to be devoted by the Investors with respect to this investment v_field_no_shop_applicability, the No Shop/Confidentiality and other consideration set forth herein, provisions of this Term Sheet shall be binding obligations of the Company whether or not the financing is consummated.  No other legally binding obligations will be created until definitive agreements are executed and delivered by all parties.  This Term Sheet is not a commitment to invest, and is conditioned on the completion of due diligence, legal review and documentation that is satisfactory to the Investors.  This Term Sheet shall be governed in all respects by the laws of the State of v_field_governing_law_state."
 
@@ -9,7 +9,6 @@ This Term Sheet summarizes the principal terms of the v_field_security_name Fina
 ### Closing Date
 
 As soon as practicable following the Company’s acceptance of this Term Sheet and satisfaction of the Conditions to Closing (the “Closing”). v_field_subsequent_closing_applicability Amounts not sold at the initial closing may be sold for a period of 6 months following the initial closing.
-
 
 ### Investors
 
@@ -25,7 +24,6 @@ v_field_financing_amount v_field_bridge_conversion_applicability, including v_fi
 
 v_field_financing_price_per_share per share (based on the capitalization of the Company set forth below) (the “Original Purchase Price”).
 
-
 ### Pre-Money Valuation
 
 The Original Purchase Price is based upon a fully-diluted pre-money valuation of v_field_pre_money_valuation and a fully diluted post-money valuation of v_field_post_money_valuation (including an employee pool representing v_field_option_pool_available_perc of the fully diluted post-money capitalization).
@@ -34,13 +32,11 @@ The Original Purchase Price is based upon a fully-diluted pre-money valuation of
 
 The Company’s capital structure before and after the Closing is set forth on Exhibit A.
 
-
 ## CHARTER
 
 ### Dividends
 
 Dividends will be paid on the v_field_security_name on an as converted basis when, as, and if paid on the Common Stock. v_field_dividend_pref_applicability v_field_dividend_cumulative_applicability the v_field_security_name will carry an annual v_field_dividend_amount_per_share cumulative dividend payable upon a liquidation or redemption.  For any other dividends or distributions, participation with Common Stock on an as-converted basis. v_field_dividend_pref_applicability v_field_dividend_non_cumulative_applicability Non-cumulative dividends will be paid on the v_field_security_name in an amount equal to v_field_dividend_amount_per_share per share of v_field_security_name when and if declared by the Board.
-
 
 ### Liquidation Preference
 
@@ -74,11 +70,9 @@ v_field_price_based_anti_dilution_applicability In the event that the Company is
 
 v_field_price_based_anti_dilution_applicability The following issuances shall not trigger anti-dilution adjustment: (i) securities issuable upon conversion of any of the v_field_security_name, or as a dividend or distribution on the v_field_security_name; (ii) securities issued upon the conversion of any debenture, warrant, option, or other convertible security; (iii) Common Stock issuable upon a stock split, stock dividend, or any subdivision of shares of Common Stock; and (iv) shares of Common Stock (or options to purchase such shares of Common Stock) issued or issuable to employees or directors of, or consultants to, the Company pursuant to any plan approved by the Company’s Board of Directors v_field_price_based_anti_dilution_employee_issue_exception_board_waiver_applicability including v_field_price_based_anti_dilution_employee_issue_exception_board_waiver_threshold of the Financing Board Delegation.
 
-
 ### Mandatory Conversion
 
 Each share of v_field_security_name will automatically be converted into Common Stock at the then applicable conversion rate in the event of the closing of a firm commitment underwritten public offering with a price of v_field_qpo_return_multiple_threshold times the Original Purchase Price (subject to adjustments for stock dividends, splits, combinations and similar events) and gross proceeds to the Company of not less than v_field_qpo_company_proceeds_threshold (a “QPO”), or (ii) upon the written consent of the holders of v_field_mandatory_conversion_vote_threshold_perc of the v_field_security_name.
-
 
 ### Pay-to-Play
 
@@ -161,6 +155,7 @@ All v_field_preemptive_rights_major_investor_limitation_applicability Major Inve
 ### Matters Requiring Investor Director Approval
 
 v_field_board_vetoes_applicability So long as the holders of v_field_security_name are entitled to elect the Financing Board Delegation, the Company will not, without Board approval v_field_investor_directors_veto_applicability, which approval must include the affirmative vote of v_field_investor_directors_veto_waiver_threshold of the Financing Board Delegation:
+
 1. v_field_board_vetoes_intercompany_financing_applicability make any loan or advance to, or own any stock or other securities of, any subsidiary or other corporation, partnership, or other entity unless it is wholly owned by the Company;
 1. v_field_board_vetoes_lend_applicability make any loan or advance to any person, including, any employee or director, except advances and similar expenditures in the ordinary course of business or under the terms of a employee stock or option plan approved by the Board of Directors;
 1. v_field_board_vetoes_guarantee_applicability guarantee, any indebtedness except for trade accounts of the Company or any subsidiary arising in the ordinary course of business;
@@ -175,7 +170,6 @@ v_field_board_vetoes_applicability So long as the holders of v_field_security_na
 ### Non-Competition and Non-Solicitation Agreements
 
 v_field_noncompete_nonsolicit_applicability Each Founder and key employee will enter into a one year v_field_noncompete_applicability non-competition and non-solicitation agreement in a form reasonably acceptable to the Investors.
-
 
 ### Non-Disclosure and Developments Agreement
 
@@ -211,8 +205,11 @@ Company first and Investors second (to the extent assigned by the Board of Direc
 
 ### Board of Directors
 
-At the initial Closing, the Board shall consist of v_field_board_total_seats members comprised of (i) num_investor_board_seats designated by the Investors v_field_investor_director_seat_further_breakdown who shall initially be v_field_investor_director_names, (ii) num_founder_board_seats designated by the Founders v_field_founder_director_seat_further_breakdown who shall initially be v_field_founder_director_names, and (iii) v_field_other_directors_detail.
+At the initial Closing, the Board shall consist of v_field_board_total_seats members comprised as follows: 
 
+1. num_investor_board_seats designated by the Investors v_field_investor_director_seat_further_breakdown who shall initially be v_field_investor_director_names
+1. num_founder_board_seats designated by the Founders v_field_founder_director_seat_further_breakdown who shall initially be v_field_founder_director_names
+1. v_field_other_directors_detail
 
 ### Drag Along
 
@@ -246,8 +243,9 @@ EXECUTED THIS v_field_agmt_date_sentence.
 
 v_signature_blocks
 
-v_exibit_page
+v_exhibit_page
 
 ## EXHIBIT A
+### Capitalization
 
 v_field_financing_model

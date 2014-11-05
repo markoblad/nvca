@@ -2,19 +2,19 @@
 
 ## v_field_agmt_date
 
-This Term Sheet summarizes the principal terms of the v_field_security_name Financing of v_field_company_name, a v_field_org_state v_field_entity_type (the “Company”).  In consideration of the time and expense devoted and to be devoted by the Investors with respect to this investment v_field_no_shop_applicability, the No Shop/Confidentiality and other consideration set forth herein, provisions of this Term Sheet shall be binding obligations of the Company whether or not the financing is consummated.  No other legally binding obligations will be created until definitive agreements are executed and delivered by all parties.  This Term Sheet is not a commitment to invest, and is conditioned on the completion of due diligence, legal review and documentation that is satisfactory to the Investors.  This Term Sheet shall be governed in all respects by the laws of the State of v_field_governing_law_state."
+This Term Sheet summarizes the principal terms of the v_field_security_name Financing of v_field_company_name, a v_field_org_state v_field_entity_type (the “Company”).  In consideration of the time and expense devoted and to be devoted by the Investors with respect to this investment v_field_no_shop_applicability, the No Shop/Confidentiality and other consideration set forth herein, provisions of this Term Sheet shall be binding obligations of the Company whether or not the financing is consummated.  No other legally binding obligations will be created until definitive agreements are executed and delivered by all parties.  This Term Sheet is not a commitment to invest, and is conditioned on the completion of due diligence, legal review and documentation that is satisfactory to the Investors.  This Term Sheet shall be governed in all respects by the laws of the State of v_field_governing_law_state.
 
 ## Offering Terms
 
 ### Closing Date
 
-As soon as practicable following the Company’s acceptance of this Term Sheet and satisfaction of the Conditions to Closing (the “Closing”). v_field_subsequent_closing_applicability Amounts not sold at the initial closing may be sold for a period of 6 months following the initial closing.
+As soon as practicable following the Company’s acceptance of this Term Sheet and satisfaction of the Conditions to Closing (the “Closing”). v_field_subsequent_closing_applicability Amounts not sold at the initial closing may be sold for a period of v_field_subsequent_closing_long_stop_months months following the initial closing.
 
 ### Investors
 
 v_field_investor_hashes
 
-v_field_other_mutual_investors as well other investors mutually agreed upon by Investors and the Company
+v_field_other_mutual_investors_applicability as well other investors mutually agreed upon by Investors and the Company
 
 ### Amount Raised
 
@@ -36,7 +36,11 @@ The Company’s capital structure before and after the Closing is set forth on E
 
 ### Dividends
 
-Dividends will be paid on the v_field_security_name on an as converted basis when, as, and if paid on the Common Stock. v_field_dividend_pref_applicability v_field_dividend_cumulative_applicability the v_field_security_name will carry an annual v_field_dividend_amount_per_share cumulative dividend payable upon a liquidation or redemption.  For any other dividends or distributions, participation with Common Stock on an as-converted basis. v_field_dividend_pref_applicability v_field_dividend_non_cumulative_applicability Non-cumulative dividends will be paid on the v_field_security_name in an amount equal to v_field_dividend_amount_per_share per share of v_field_security_name when and if declared by the Board.
+Dividends will be paid on the v_field_security_name on an as converted basis when, as, and if paid on the Common Stock.
+
+v_field_dividend_pref_applicability v_field_dividend_cumulative_applicability The v_field_security_name will carry an annual v_field_dividend_amount_per_share cumulative dividend payable upon a liquidation or redemption.  For any other dividends or distributions, participation with Common Stock on an as-converted basis.
+
+v_field_dividend_pref_applicability v_field_dividend_non_cumulative_applicability Non-cumulative dividends will be paid on the v_field_security_name in an amount equal to v_field_dividend_amount_per_share per share of v_field_security_name when and if declared by the Board.
 
 ### Liquidation Preference
 
@@ -46,7 +50,7 @@ A merger or consolidation (other than one in which stockholders of the Company o
 
 ### Voting Rights
 
-The v_field_security_name shall vote together with the Common Stock on an as-converted basis, and not as a separate class, except v_field_board_rights_retention_threshold_applicability (i) so long as v_field_board_rights_retention_threshold_perc of the v_field_security_name is outstanding, the v_field_security_name as a class shall be entitled to elect v_field_num_investor_board_seats members of the Board (the “Financing Board Delegation”), and (ii) as required by law.  The Company’s Certificate of Incorporation will provide that the number of authorized shares of Common Stock may be increased or decreased with the approval of a majority of the Preferred and Common Stock, voting together as a single class, and without a separate class vote by the Common Stock.
+The v_field_security_name shall vote together with the Common Stock on an as-converted basis, and not as a separate class, except (i) v_field_board_rights_retention_threshold_applicability so long as v_field_board_rights_retention_threshold_perc of the v_field_security_name is outstanding, the v_field_security_name as a class shall be entitled to elect v_field_num_investor_board_seats members of the Board (the “Financing Board Delegation”), and (ii) as required by law.  The Company’s Certificate of Incorporation will provide that the number of authorized shares of Common Stock may be increased or decreased with the approval of a majority of the Preferred and Common Stock, voting together as a single class, and without a separate class vote by the Common Stock.
 
 ### Protective Provisions
 
@@ -68,7 +72,7 @@ The v_field_security_name initially converts 1:1 to Common Stock at any time at 
 
 v_field_price_based_anti_dilution_applicability In the event that the Company issues additional securities at a purchase price less than the current v_field_security_name conversion price, such conversion price shall be adjusted in accordance with the v_field_price_based_anti_dilution_basis formula.  v_field_price_based_anti_dilution_applicability No price-based anti-dilution protection.
 
-v_field_price_based_anti_dilution_applicability The following issuances shall not trigger anti-dilution adjustment: (i) securities issuable upon conversion of any of the v_field_security_name, or as a dividend or distribution on the v_field_security_name; (ii) securities issued upon the conversion of any debenture, warrant, option, or other convertible security; (iii) Common Stock issuable upon a stock split, stock dividend, or any subdivision of shares of Common Stock; and (iv) shares of Common Stock (or options to purchase such shares of Common Stock) issued or issuable to employees or directors of, or consultants to, the Company pursuant to any plan approved by the Company’s Board of Directors v_field_price_based_anti_dilution_employee_issue_exception_board_waiver_applicability including v_field_price_based_anti_dilution_employee_issue_exception_board_waiver_threshold of the Financing Board Delegation.
+v_field_price_based_anti_dilution_applicability The following issuances shall not trigger anti-dilution adjustment (if any): (i) securities issuable upon conversion of any of the v_field_security_name, or as a dividend or distribution on the v_field_security_name; (ii) securities issued upon the conversion of any debenture, warrant, option, or other convertible security; (iii) Common Stock issuable upon a stock split, stock dividend, or any subdivision of shares of Common Stock; and (iv) shares of Common Stock (or options to purchase such shares of Common Stock) issued or issuable to employees or directors of, or consultants to, the Company pursuant to any plan approved by the Company’s Board of Directors v_field_price_based_anti_dilution_employee_issue_exception_board_waiver_applicability including v_field_price_based_anti_dilution_employee_issue_exception_board_waiver_threshold of the Financing Board Delegation.
 
 ### Mandatory Conversion
 
@@ -183,11 +187,11 @@ The Board of Directors shall meet at least v_field_board_min_periodic_meeting, u
 
 v_field_do_insurance_applicability The Company will bind D&O insurance with a carrier and in an amount satisfactory to the Board of Directors.
 
-Company to enter into Indemnification Agreement with each member of the Financing Board Delegation and affiliated funds in form acceptable to such director.  In the event the Company merges with another entity and is not the surviving corporation, or transfers all of its assets, proper provisions shall be made so that successors of the Company assume the Company’s obligations with respect to indemnification of Directors or sufficient tail-insurancy policy coverage is obtained.
+Company to enter into Indemnification Agreement with each member of the Financing Board Delegation and affiliated funds in form acceptable to such director.  In the event the Company merges with another entity and is not the surviving corporation, or transfers all of its assets, proper provisions shall be made so that successors of the Company assume the Company’s obligations with respect to indemnification of Directors or sufficient tail-insurance policy coverage is obtained.
 
 ### Employee Stock Options
 
-v_field_employee_option_required_vesting_schedule_applicability All employee options to vest as follows:  v_field_employee_option_required_vesting_schedule 25% after one year, with remaining vesting monthly over next 36 months
+v_field_employee_option_required_vesting_schedule_applicability All employee options to vest as follows: v_field_employee_option_required_vesting_schedule.
 
 v_field_employee_option_pool_increase_applicability Immediately prior to the v_field_security_name investment, sufficient shares will be added to the option pool to create an unallocated option pool of v_field_employee_option_pool_increase_total_unallocated_perc of the Company's fully diluted capitalization following Closing.
 
@@ -199,7 +203,7 @@ v_field_key_person_insurance_applicability Company to acquire life insurance on 
 
 ### Right of First Refusal / Right of Co-Sale (Take-Me-Along)
 
-Company first and Investors second (to the extent assigned by the Board of Directors,) will have a right of first refusal with respect to any shares of capital stock of the Company proposed to be transferred by Founders v_field_rofr_co_sale_other_employees_applicability and future employees holding greater than v_field_rofr_co_sale_other_employees_threshold_perc of Company Common Stock (assuming conversion of Preferred Stock and whether then held or subject to the exercise of options), with a right of oversubscription for Investors of shares unsubscribed by the other Investors.  Before any such person may sell Common Stock, he/she will give the Investors an opportunity to participate in such sale on a basis proportionate to the amount of securities held by the seller and those held by the participating Investors.
+rofr_co_sale_applicability Company first and Investors second (to the extent assigned by the Board of Directors) will have a right of first refusal with respect to any shares of capital stock of the Company proposed to be transferred by Founders v_field_rofr_co_sale_other_employees_applicability and future employees holding greater than v_field_rofr_co_sale_other_employees_threshold_perc of Company Common Stock (assuming conversion of Preferred Stock and whether then held or subject to the exercise of options), with a right of oversubscription for Investors of shares unsubscribed by the other Investors.  Before any such person may sell Common Stock, he/she will give the Investors an opportunity to participate in such sale on a basis proportionate to the amount of securities held by the seller and those held by the participating Investors.
 
 ## VOTING AGREEMENT
 
@@ -207,8 +211,8 @@ Company first and Investors second (to the extent assigned by the Board of Direc
 
 At the initial Closing, the Board shall consist of v_field_board_total_seats members comprised as follows: 
 
-1. num_investor_board_seats designated by the Investors v_field_investor_director_seat_further_breakdown who shall initially be v_field_investor_director_names
-1. num_founder_board_seats designated by the Founders v_field_founder_director_seat_further_breakdown who shall initially be v_field_founder_director_names
+1. v_field_num_investor_board_seats designated by the Investors v_field_investor_director_seat_further_breakdown who shall initially be v_field_investor_director_names
+1. v_field_num_founder_board_seats designated by the Founders v_field_founder_director_seat_further_breakdown who shall initially be v_field_founder_director_names
 1. v_field_other_directors_detail
 
 ### Drag Along

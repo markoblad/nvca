@@ -1,4 +1,4 @@
 nvca
 ====
 
-NVCA forms in markdown and scripted
+NVCA forms in markdown and pseudo-scripted
